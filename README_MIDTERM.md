@@ -103,7 +103,7 @@ Progression from data analysis → neural networks → specialized architectures
 - 80/20 train/test split
 
 **Results:**
-- **Final Test Accuracy: 99.97%** 🎉
+- **Final Test Accuracy: 99.97%**
 - Random baseline: 33.33%
 - Loss: 0.1291 → 0.0012
 - Hit 100% at epoch 9
